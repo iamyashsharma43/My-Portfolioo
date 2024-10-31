@@ -165,18 +165,12 @@ export const socialMedia = [
     id: 1,
     name: "GitHub",
     img: "/git.svg",
-    url: "https://github.com/Yash SharmaGupta69",
+    url: "https://github.com/iamyashsharma43",
   },
   {
     id: 2,
     name: "Twitter",
     img: "/twit.svg",
-    url: "https://x.com/Yash SharmaGupta69",
-  },
-  {
-    id: 3,
-    name: "LinkedIn",
-    img: "/link.svg",
-    url: "https://www.linkedin.com/in/Yash Sharma-gupta-works/",
+    url: "https://x.com/100xdevyash",
   },
 ];
